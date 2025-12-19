@@ -1,0 +1,23 @@
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/bin/Debug/RaGsys.exe.config
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/bin/Debug/RaGsys.exe
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/bin/Debug/RaGsys.pdb
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.AssemblyReference.cache
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.SuggestedBindingRedirects.cache
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.CoreCompileInputs.cache
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/obj/Debug/RaGsys.exe
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/obj/Debug/RaGsys.pdb
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/bin/Debug/RaGlib.dll
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/bin/Debug/RaGlib.pdb
+C:/Users/stud/Desktop/Proba/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.CopyComplete
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.AssemblyReference.cache
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.CoreCompileInputs.cache
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/obj/Debug/RaGsys.exe
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/obj/Debug/RaGsys.pdb
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/bin/Debug/RaGsys.exe.config
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/bin/Debug/RaGsys.exe
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/bin/Debug/RaGsys.pdb
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/bin/Debug/RaGlib.dll
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/bin/Debug/RaGlib.pdb
+F:/MYLIBRARY/0. Courses/Course_Compiler/Rag System New Progect/RaGsys/RaGsys/obj/Debug/RaGsys.csproj.Up2Date
+/home/thinkercat/Downloads/Системы программирования/RaGsys 2024 v0.1/RaGsys/obj/Debug/RaGsys.exe
+/home/thinkercat/Downloads/Системы программирования/RaGsys 2024 v0.1/RaGsys/obj/Debug/RaGsys.pdb
